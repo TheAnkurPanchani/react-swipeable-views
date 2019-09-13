@@ -89,5 +89,6 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "types": "./index.d.ts"
 }
