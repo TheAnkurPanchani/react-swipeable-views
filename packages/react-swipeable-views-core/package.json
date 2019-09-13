@@ -1,5 +1,5 @@
 {
-  "name": "react-swipeable-views-core",
+  "name": "@theankur/react-swipeable-views-core",
   "version": "0.13.1",
   "description": "react-swipeable-views core modules",
   "main": "lib/index.js",
@@ -24,5 +24,8 @@
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

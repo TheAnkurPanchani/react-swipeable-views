@@ -1,5 +1,5 @@
 {
-  "name": "react-swipeable-views",
+  "name": "@theankur/react-swipeable-views",
   "version": "0.13.3",
   "description": "A React component for swipeable views",
   "main": "lib/index.js",
@@ -24,8 +24,8 @@
     "@babel/runtime": "7.0.0",
     "dom-helpers": "^3.2.1",
     "prop-types": "^15.5.4",
-    "react-swipeable-views-core": "^0.13.1",
-    "react-swipeable-views-utils": "^0.13.3",
+    "@theankur/react-swipeable-views-core": "^0.13.1",
+    "@theankur/react-swipeable-views-utils": "^0.13.3",
     "warning": "^4.0.1"
   },
   "peerDependencies": {
@@ -37,5 +37,9 @@
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"
+  },
+  "types": "./index.d.ts",
+  "publishConfig": {
+    "access": "public"
   }
 }
