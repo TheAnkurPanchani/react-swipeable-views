@@ -1,6 +1,6 @@
 {
   "name": "@theankur/react-swipeable-views-utils",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "description": "react-swipeable-views utility modules",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0",
-    "@theankur/react-swipeable-views-core": "^0.14.0",
+    "@theankur/react-swipeable-views-core": "^0.14.1",
     "fbjs": "^0.8.4",
     "keycode": "^2.1.7",
     "prop-types": "^15.6.0",
