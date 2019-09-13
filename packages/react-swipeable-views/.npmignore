@@ -2,4 +2,5 @@
 !/src/*.js
 !/lib/*.js
 !/dist/*
+!/index.d.ts
 *.test.js
