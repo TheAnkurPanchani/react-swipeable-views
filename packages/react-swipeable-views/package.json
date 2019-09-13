@@ -21,15 +21,15 @@
     "url": "https://github.com/oliviertassinari/react-swipeable-views/issues"
   },
   "dependencies": {
-    "@babel/runtime": "7.0.0",
+    "@babel/runtime": "7.6.0",
     "@theankur/react-swipeable-views-core": "^0.14.2",
     "@theankur/react-swipeable-views-utils": "^0.14.2",
-    "dom-helpers": "^3.2.1",
-    "prop-types": "^15.5.4",
-    "warning": "^4.0.1"
+    "dom-helpers": "^5.1.0",
+    "prop-types": "^15.7.2",
+    "warning": "^4.0.3"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0"
+    "react": "^16.9.0"
   },
   "devDependencies": {
     "pkgfiles": "^2.3.2"
