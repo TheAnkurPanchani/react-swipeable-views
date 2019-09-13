@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import { mod } from 'react-swipeable-views-core';
+import { mod } from '@theankur/react-swipeable-views-core';
 
 export default function virtualize(MyComponent) {
   class Virtualize extends PureComponent {

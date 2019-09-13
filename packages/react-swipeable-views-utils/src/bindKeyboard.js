@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import keycode from 'keycode';
 import EventListener from 'react-event-listener';
-import { mod } from 'react-swipeable-views-core';
+import { mod } from '@theankur/react-swipeable-views-core';
 
 export default function bindKeyboard(MyComponent) {
   class BindKeyboard extends React.Component {
